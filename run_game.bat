@@ -1,0 +1,1 @@
+@echo off\nREM Run the game in Python\npython main.py\npause\n
