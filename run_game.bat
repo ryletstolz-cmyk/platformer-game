@@ -1,1 +1,4 @@
-@echo off\nREM Run the game in Python\npython main.py\npause\n
+@echo off
+REM Run the game in Python
+python main.py
+pause
